@@ -73,18 +73,6 @@ Para replicar la base de datos del proyecto en tu entorno local, sigue estos pas
 
 ---
 
-## 📁 Estructura de Archivos
-Use code with caution.
-Markdown
-.
-├── PostgreSQLSimulacionAlmacen/ # Carpeta con imágenes de la simulación
-│ ├── Inicio.png # Vista general de las tablas
-│ ├── Next01.png # Detalle de datos 1
-│ └── Next02.png # Detalle de datos 2
-│
-├── CreateBasesdatosTablesAll.sql # Script SQL maestro para crear y poblar la BD
-│
-└── README.md # Este archivo de documentación
 ---
 
 ## 🔧 Tecnologías Utilizadas
