@@ -37,11 +37,11 @@ Este proyecto es un sistema modular que se está construyendo por fases.
 Estas imágenes muestran la estructura de datos que hemos construido, la cual ya está lista para soportar las operaciones del almacén.
 
 #### Estructura Inicial de Tablas
-![Estructura Inicial de Tablas](PostgreSQLSimulacionAlmacen/Inicio.png)
+![Estructura Inicial de Tablas](https://raw.githubusercontent.com/rafaelsotove73/PosgretBaseData_Alm_WareHouse/main/PostgreSQLSimulacionAlmacen/Inicio.png)
 
 #### Simulación de Datos y Operaciones
 ![Detalle de Datos 1](https://raw.githubusercontent.com/rafaelsotove73/PosgretBaseData_Alm_WareHouse/main/PostgreSQLSimulacionAlmacen/Next01.png)
-![Detalle de Datos 2](PostgreSQLSimulacionAlmacen/Next02.png)
+![Detalle de Datos 2](https://raw.githubusercontent.com/rafaelsotove73/PosgretBaseData_Alm_WareHouse/main/PostgreSQLSimulacionAlmacen/Next02.png)
 
 ---
 
