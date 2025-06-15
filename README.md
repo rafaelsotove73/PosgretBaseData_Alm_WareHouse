@@ -40,7 +40,7 @@ Estas imágenes muestran la estructura de datos que hemos construido, la cual ya
 ![Estructura Inicial de Tablas](PostgreSQLSimulacionAlmacen/Inicio.png)
 
 #### Simulación de Datos y Operaciones
-![Detalle de Datos 1](PostgreSQLSimulacionAlmacen/Next01.png)
+![Detalle de Datos 1](https://raw.githubusercontent.com/rafaelsotove73/PosgretBaseData_Alm_WareHouse/main/PostgreSQLSimulacionAlmacen/Next01.png)
 ![Detalle de Datos 2](PostgreSQLSimulacionAlmacen/Next02.png)
 
 ---
